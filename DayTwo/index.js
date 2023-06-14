@@ -18,7 +18,7 @@ console.log("Array after push():",fruits);
 // using shift() to remove the first element
 let shiftedFruit = fruits.shift();
 console.log("Array after shift();",fruits);
-console.log("Shifted Fruit",shiftedFruit);
+console.log("Shifted Fruit:",shiftedFruit);
 
 // using unshift() to add an element to te beginning
 fruits.unshift("Kiwi");
