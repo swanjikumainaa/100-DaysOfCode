@@ -1,4 +1,4 @@
-// Manipulating an array using pop(),push(),shift() and unshift()
+// Manipulating an array using pop(),push(),shift() and unshift() methods.
 
 // initializing the array
 let fruits = ["apple","banana","orange"];
